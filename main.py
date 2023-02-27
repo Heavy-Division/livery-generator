@@ -4,7 +4,7 @@ import sys
 
 # Check if the source directory path is provided as a command line argument
 if len(sys.argv) < 2:
-    print('Usage: python copy_directory.py <source_directory>')
+    print('Usage: python3 main.py <source_directory>')
     sys.exit(1)
 
 # Get the source directory path from the command line argument
