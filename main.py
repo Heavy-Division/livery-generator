@@ -19,7 +19,7 @@ if not os.path.exists(src_dir):
 parent_dir = os.path.dirname(src_dir)
 
 # Define the destination directory as a subdirectory of the parent directory with the same name as the source directory
-dst_dir = os.path.join(parent_dir, os.path.basename(src_dir) + '_heavy_division')
+dst_dir = os.path.join(parent_dir, os.path.basename(src_dir) + '_heavy_division_b78xh')
 
 # Check if the destination directory already exists
 if os.path.exists(dst_dir):

@@ -15,4 +15,4 @@ You will need to have [Python](https://www.python.org) installed on your machine
 Download the source code as a `zip` file and extract it. Run the the script by running the following command in the terminal:
 `python3 main.py <path to livery>` replace the <path to livery> with the relative path of the livery.
 
-The new Heavy Division 787 livery will be present in the same directory as the original livery, with a '_heavy_division' suffix.
+The new Heavy Division 787 livery will be present in the same directory as the original livery, with a '_heavy_division_b78xh' suffix.
