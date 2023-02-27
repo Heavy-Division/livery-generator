@@ -8,7 +8,9 @@ Script for creating B78XH soft fork compatible liveries from Asobo default 787 o
 
 This script can be run from the source code or via the downloadable executable.
 
-### Running from Source:
+## Running from Source:
+
+![example](public/example.gif)
 
 You will need to have [Python](https://www.python.org) installed on your machine to run the source code.
 
@@ -27,7 +29,11 @@ and the script will create b78xh liveries from all liveries in the directory.
 The new Heavy Division 787 livery will be present in the same directory 
 as the original livery, with a '_heavy_division_b78xh' suffix.
 
-### Running the executable 
-Download the .exe from the releases tab. Open the `command prompt` and run
+## Running the executable 
+Download the .exe from the releases tab. Open the `command prompt` and type the following:
 
-`<path to exe> `
+### generate single livery
+`<path to livery_generator.exe> --clone single --dir <path to livery`
+
+### generate multiple liveries
+`<path to livery_generator.exe> --clone multi --dir <path to liveries folder>`
