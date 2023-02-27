@@ -4,6 +4,8 @@
 
 Script for creating B78XH soft fork compatible liveries from Asobo default 787 ones.
 
+![example](public/example.gif)
+
 # Instructions 
 
 This script can be run from the source code or via the downloadable executable.
@@ -19,8 +21,6 @@ Download the .exe from the releases tab. Open the `command prompt` and type the 
 
 
 ## Running from Source:
-
-![example](public/example.gif)
 
 You will need to have [Python](https://www.python.org) installed on your machine to run the source code.
 
