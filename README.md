@@ -33,7 +33,7 @@ as the original livery, with a '_heavy_division_b78xh' suffix.
 Download the .exe from the releases tab. Open the `command prompt` and type the following:
 
 ### generate single livery
-`<path to livery_generator.exe> --clone single --dir <path to livery`
+`<path to livery_generator.exe> --clone single --dir <path to livery>`
 
 ### generate multiple liveries
 `<path to livery_generator.exe> --clone multi --dir <path to liveries folder>`
