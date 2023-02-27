@@ -17,6 +17,9 @@ Download the .exe from the releases tab. Open the `command prompt` and type the 
 `<path to livery_generator.exe> --clone single --dir <path to livery>`
 
 ### generate multiple liveries
+## ❗❗❗ Caution ❗❗❗
+Make sure there are ONLY default 787-10 liveries in the liveries folder you point the script to.
+
 `<path to livery_generator.exe> --clone multi --dir <path to liveries folder>`
 
 
