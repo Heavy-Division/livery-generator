@@ -3,7 +3,10 @@
 # Livery Generator 
 
 Script for creating B78XH soft fork compatible liveries from Asobo default 787 ones.
+
 ❗❗❗ Known issue: Liveries without a "Model.cfg" will not convert
+
+
 ![example](public/example.gif)
 
 # Instructions 
